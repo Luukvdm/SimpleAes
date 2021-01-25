@@ -1,10 +1,10 @@
 # SimpleAes
 
-[x] Key expansion
-[x] Encrypting
-[ ] Decrypting
-[ ] Input parsing
-[ ] Unit tests
+- [X] Key expansion
+- [X] Encrypting
+- [ ] Decrypting
+- [ ] Input parsing
+- [ ] Unit tests
 
 Simple AES implementation written in C#.
 Written for fun, not to be used in production environments.
